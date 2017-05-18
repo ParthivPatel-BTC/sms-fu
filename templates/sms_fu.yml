@@ -237,3 +237,12 @@ carriers:
   vodafone-spain: 
     name: Vodafone (Japan - Spain)
     value: @vodafone.es
+  airtel-india:
+    name: Airtel (India - Gujarat)
+    value: '@airtelmail.com'
+  vodafone-gujarat:
+    name: Vodafone (India - Gujarat)
+    value: '@guj.hutch.co.in'
+  idea-gujarat:
+    name: Idea (India - Gujarat)
+    value: '@ideacellular.net'
